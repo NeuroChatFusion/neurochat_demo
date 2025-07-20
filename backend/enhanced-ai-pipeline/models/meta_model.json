@@ -1,0 +1,11 @@
+{
+  "weights": {
+    "modelA": 0.25,
+    "modelB": 0.25,
+    "modelC": 0.25,
+    "modelD": 0.25
+  },
+  "bias": 0,
+  "lastUpdated": "2025-07-09T20:02:30.822Z",
+  "version": "1.0"
+}
